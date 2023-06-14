@@ -14,12 +14,17 @@ token = "session-v1:7LfFVZKlo48wOIS3h+W7Py5YffZTR61PQuM9d3TavcABAAAAeJwL7O9MYQCC
 1 - Save script in your Custom Sensor folder in prtg.
 C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python\
 
-2- Add sensor 
+2- Add new sensor:
+
 
 ![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/90dcf22e-379f-4b2c-8cda-13052be83be5)
 
-3 - Select your Script.
+
+
+3 - Select your Script and save.
 ![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/317a12e0-b3fc-4c60-9889-db5576d2d860)
+
+
 
 
 ![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/d50d1eba-a87c-4afb-98a9-a7dffd391f81)
