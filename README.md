@@ -1,5 +1,5 @@
-![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/6e4e6a7d-5684-4a8a-8f07-d9b93288f64c)# PRTG-Qumulo
-Python scripts for monitoring Qumulo Quotas.
+
+Python scripts for monitoring Qumulo Quotas in PRTG.
 
 Replace URL from your ENDPOINT and Access Token
 
