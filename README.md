@@ -4,14 +4,23 @@ Python scripts for monitoring Qumulo Quotas.
 Replace URL from your ENDPOINT and Access Token
 
 # Change Endpoint name and token from Bearer
-endpoint = "https:// ##REPLACE-ENDPOINTNAME## /v1/files/quotas/status/"
-token = "session-v1:" ##REPLACE-TOKEN## "
 
 Example:
 
 endpoint = "https://qumulo.domain.com/v1/files/quotas/status/"
 
 token = "session-v1:7LfFVZKlo48wOIS3h+W7Py5YffZTR61PQuM9d3TavcABAAAAeJwL7O9MYQCCj9JdYPqcDQMDG5BmZILQskDwAzA0a+Q=="
+
+1 - Save script in your Custom Sensor folder in prtg.
+C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python\
+
+2- Add sensor 
+
+![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/90dcf22e-379f-4b2c-8cda-13052be83be5)
+
+3 - Select your Script.
+![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/317a12e0-b3fc-4c60-9889-db5576d2d860)
+
 
 ![image](https://github.com/echu1985/PRTG-Qumulo/assets/47377572/d50d1eba-a87c-4afb-98a9-a7dffd391f81)
 
