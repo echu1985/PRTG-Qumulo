@@ -3,7 +3,7 @@ Python scripts for monitoring Qumulo Quotas in PRTG.
 
 Replace URL from your ENDPOINT and Access Token
 
-# Change fields "Endpoint name" and "token from Bearer" in code.
+# Change and replace fields "Endpoint" and "token" in code.
 
 Example:
 
